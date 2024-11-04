@@ -9,8 +9,8 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 # API Keys
-tomtom_api_key = 'n4fVCepK41RI91HsP52iXrTAupnGKfSO'
-owm_api_key = '09ecf05acbee2e40a21651a63de5e502'
+tomtom_api_key = '' #add the api keys 
+owm_api_key = ''#add the api keys
 
 # Function to fetch weather data
 def fetch_weather_data(lat, lon):
